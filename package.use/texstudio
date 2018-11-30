@@ -1,0 +1,7 @@
+# total 46 software packages
+>=sys-libs/zlib-1.2.11-r2 minizip
+
+#fullpage packages
+app-text/texlive extra
+>=app-text/texlive-core-2017-r4 xetex
+>=media-libs/harfbuzz-1.9.0 icu

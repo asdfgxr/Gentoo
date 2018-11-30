@@ -1,0 +1,9 @@
+#codeblocks
+dev-util/codeblocks
+dev-libs/tinyxml
+
+#fonts for programming in vavado
+media-fonts/fantasque-sans-mono
+
+#vba
+games-emulation/vbam

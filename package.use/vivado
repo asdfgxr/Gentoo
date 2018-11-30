@@ -1,0 +1,4 @@
+#vivado uses libs: libpng:1.2 ncurses:5
+media-libs/libpng:1.2 abi_x86_32
+>=sys-libs/zlib-1.2.11-r2 abi_x86_32
+sys-libs/ncurses:5 tinfo
