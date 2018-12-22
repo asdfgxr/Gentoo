@@ -1,0 +1,10 @@
+# sda1 /boot gentoo
+# sda2 / gentoo
+# sda3 / centos
+
+# sdb1 swap
+# sdb2 /home gentoo
+# sdb3 /home centos
+
+# sdc1 /opt gentoo
+# sdc2 /opt centos
