@@ -5,5 +5,12 @@ dev-libs/tinyxml
 #fonts for programming in vavado
 media-fonts/fantasque-sans-mono
 
-#vba
+#game emulator
 games-emulation/vbam
+
+#game engines
+games-engines/solarus
+games-rpg/zsdx
+
+#media lib
+
