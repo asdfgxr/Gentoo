@@ -14,8 +14,12 @@ games-engines/solarus
 games-rpg/zsdx
 media-fonts/anonymous-pro
 media-fonts/fantasque-sans-mono
+media-fonts/kochi-substitute
 media-fonts/wqy-zenhei
 media-libs/libpng:1.2
+media-sound/alsa-utils
+media-sound/cmus
+media-video/ffmpeg
 net-misc/dhcpcd
 net-misc/netifrc
 net-misc/youtube-dl
@@ -31,8 +35,10 @@ sys-kernel/linux-firmware
 sys-libs/ncurses:5
 sys-process/dcron
 www-client/google-chrome
+x11-apps/xrandr
 x11-base/xorg-drivers
 x11-drivers/xf86-video-intel
+x11-misc/xfe
 x11-terms/xterm
 x11-wm/xmonad
 x11-wm/xmonad-contrib

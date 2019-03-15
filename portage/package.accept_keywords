@@ -12,5 +12,6 @@ games-emulation/vbam
 games-engines/solarus
 games-rpg/zsdx
 
-#media lib
+#verilog/vhdl
+sci-electronics/quartus-prime-lite
 
