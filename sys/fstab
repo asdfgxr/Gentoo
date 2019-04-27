@@ -29,7 +29,7 @@
 #/dev/cdrom		/mnt/cdrom	auto		noauto,ro	0 0
 
 /dev/sda1		/boot		ext2		defaults,noatime	0 2
-/dev/sda2		/		ext4		noatime		0 1
-/dev/sdb1		none		swap		sw		0 0
-/dev/sdb2		/home		ext4		noatime		0 1
+/dev/sda3		/		ext4		noatime		0 1
+/dev/sda2		none		swap		sw		0 0
+/dev/sdb1		/home		ext4		noatime		0 1
 /dev/sdc1		/opt		ext4		noatime		0 1

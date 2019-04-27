@@ -1,0 +1,6 @@
+# python
+>=dev-lang/python-2.7.15:2.7 sqlite
+
+# kernel
+sys-apps/kmoe lzma zlib
+

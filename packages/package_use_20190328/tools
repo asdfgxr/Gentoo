@@ -1,0 +1,7 @@
+# latex related tools will install total 46 software packages
+# USES of texlive
+app-text/texlive extra
+>=app-text/texlive-core-2017-r4 xetex cjk
+
+# X file explorer total 5 packages
+x11-misc/xfe -startup-notification

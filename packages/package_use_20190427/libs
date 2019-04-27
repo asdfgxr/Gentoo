@@ -1,0 +1,12 @@
+media-libs/allegro -vorbis
+
+#vivado uses libs : libpng:1.2 ncurses:5
+media-libs/libpng:1.2 abi_x86_32
+>=sys-libs/zlib-1.2.11-r2 abi_x86_32
+sys-libs/ncurses:5 tinfo
+
+# texstudio uses lib zlib
+>=sys-libs/zlib-1.2.11-r2 minizip
+
+# texlive uses libe harfbuzz
+>=media-libs/harfbuzz-1.9.0 icu
