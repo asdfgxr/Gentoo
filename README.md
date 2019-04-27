@@ -2,7 +2,7 @@
 
 # The sequence of install software
 ## During the installation of the system
-app-admin/sysklogd        -- login the system \\
+app-admin/sysklogd        -- login the system\
 dev-vcs/git               -- get config file during install system
 net-misc/dhcpcd           -- internet when reboot to the new system
 net-misc/netifrc          -- ?? following the handbook
