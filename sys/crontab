@@ -8,12 +8,12 @@
 # NOTE: This will REPLACE root's current crontab!!
 
 # check scripts in cron.hourly, cron.daily, cron.weekly and cron.monthly
-#Mins   Hours   Days   Months   Day of the week
 59   *  * * *  rm -f /var/spool/cron/lastrun/cron.hourly
 9    3  * * *  rm -f /var/spool/cron/lastrun/cron.daily
 19   4  * * 6  rm -f /var/spool/cron/lastrun/cron.weekly
 29   5  1 * *  rm -f /var/spool/cron/lastrun/cron.monthly
-*/10 *  * * *  test -x /usr/sbin/run-crons && /usr/sbin/run-crons
-59   *  * * *  rm -f /home/gxr/vivado*
-59   *  * * *  rm -f /home/gxr/.serverauth.*
-59   *  * * *  rm -f /home/gxr/hs_err_pid*
+#*/10 *  * * *  test -x /usr/sbin/run-crons && /usr/sbin/run-crons
+
+59   *  * * *  rm -f /home/xg849/vivado*
+59   *  * * *  rm -f /home/xg849/.serverauth.*
+59   *  * * *  rm -f /home/xg849/hs_err_pid*

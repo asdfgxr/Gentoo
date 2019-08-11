@@ -1,0 +1,9 @@
+# X file explorer total 5 packages
+x11-misc/xfe -startup-notification
+
+#codeblocks
+dev-util/codeblocks -fortran
+
+# arm develop suite
+# libusb-compat
+# net-libs/webkit-gtk 44 packages
